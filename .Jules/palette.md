@@ -1,0 +1,3 @@
+## 2024-05-13 - Missing Alt Text in HTML Images within Markdown
+**Learning:** Raw HTML `<img>` tags used within Markdown files (often for styling or formatting purposes) are frequently overlooked for accessibility. Unlike standard Markdown image syntax `![alt](url)`, HTML tags don't enforce or encourage `alt` attributes by default, leading to missing screen reader descriptions for structural or informative images in profile pages.
+**Action:** Always check raw HTML `<img>` tags in Markdown files (like `README.md`) for missing `alt` attributes, especially those generating dynamic stats, graphs, or banners. Add descriptive `alt` text to ensure content is fully accessible to screen reader users.
