@@ -23,7 +23,7 @@
 <div align="center">
 
 <!-- ═══════════════════ ANIMATED HEADER BANNER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subham%20Kumar%20Mallick&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20EdTech%20Innovator%20%7C%20UI%2FUX%20Specialist&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subham%20Kumar%20Mallick&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20EdTech%20Innovator%20%7C%20UI%2FUX%20Specialist&descAlignY=60&descSize=16" width="100%" alt="Subham Kumar Mallick - Animated Header Banner"/>
 
 </div>
 
@@ -352,20 +352,20 @@
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sk-mallick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D4FF&icon_color=A78BFA&rank_icon=github&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sk-mallick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D4FF&icon_color=A78BFA&rank_icon=github&include_all_commits=true&count_private=true" width="100%" alt="GitHub Statistics"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-mallick&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D4FF" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-mallick&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D4FF" width="100%" alt="Top Languages"/>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=A78BFA&fire=FF6B6B&sideLabels=c9d1d9&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=A78BFA&fire=FF6B6B&sideLabels=c9d1d9&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888" width="70%" alt="GitHub Streak Statistics"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-mallick&theme=tokyo-night&bg_color=0d1117&color=00D4FF&line=A78BFA&point=FF6B6B&hide_border=true&area=true&area_color=00D4FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-mallick&theme=tokyo-night&bg_color=0d1117&color=00D4FF&line=A78BFA&point=FF6B6B&hide_border=true&area=true&area_color=00D4FF" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -574,7 +574,7 @@ contact    : subhammallick454@gmail.com
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Made+with+❤️+from+Bhubaneswar%2C+Odisha&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Made+with+❤️+from+Bhubaneswar%2C+Odisha&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Made with love from Bhubaneswar, Odisha"/>
 
 </div>
 
