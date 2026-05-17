@@ -92,7 +92,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sk-mallick/sk-mallick/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sk-mallick/sk-mallick/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sk-mallick/sk-mallick/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sk-mallick/sk-mallick/output/github-contribution-grid-snake-dark.svg" width="100%" loading="lazy"/>
 </picture>
 </div>
 
@@ -352,20 +352,20 @@
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sk-mallick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D4FF&icon_color=A78BFA&rank_icon=github&include_all_commits=true&count_private=true" width="100%" alt="GitHub Readme Stats showing overall contributions and profile rank"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sk-mallick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D4FF&icon_color=A78BFA&rank_icon=github&include_all_commits=true&count_private=true" width="100%" alt="GitHub Readme Stats showing overall contributions and profile rank" loading="lazy"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-mallick&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D4FF" width="100%" alt="GitHub Readme Stats displaying top languages used in repositories"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-mallick&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D4FF" width="100%" alt="GitHub Readme Stats displaying top languages used in repositories" loading="lazy"/>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=A78BFA&fire=FF6B6B&sideLabels=c9d1d9&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888" width="70%" alt="GitHub Readme Streak Stats displaying commit streak details"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=A78BFA&fire=FF6B6B&sideLabels=c9d1d9&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888" width="70%" alt="GitHub Readme Streak Stats displaying commit streak details" loading="lazy"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-mallick&theme=tokyo-night&bg_color=0d1117&color=00D4FF&line=A78BFA&point=FF6B6B&hide_border=true&area=true&area_color=00D4FF" width="100%" alt="GitHub Readme Activity Graph showing contribution timeline"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-mallick&theme=tokyo-night&bg_color=0d1117&color=00D4FF&line=A78BFA&point=FF6B6B&hide_border=true&area=true&area_color=00D4FF" width="100%" alt="GitHub Readme Activity Graph showing contribution timeline" loading="lazy"/>
 
 </div>
 
@@ -519,7 +519,7 @@ contact    : subhammallick454@gmail.com
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="270" height="185" alt="Coding"/>
+<img src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="270" height="185" alt="Coding" loading="lazy"/>
 
 <br/>
 
@@ -574,7 +574,7 @@ contact    : subhammallick454@gmail.com
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Made+with+❤️+from+Bhubaneswar%2C+Odisha&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Animated footer banner displaying Made with love from Bhubaneswar, Odisha"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Made+with+❤️+from+Bhubaneswar%2C+Odisha&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Animated footer banner displaying Made with love from Bhubaneswar, Odisha" loading="lazy"/>
 
 </div>
 
