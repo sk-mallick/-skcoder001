@@ -107,6 +107,7 @@
 <div align="center">
 
 ### 📚 EnglishJibi · GrammarHub
+
 [![Status](https://img.shields.io/badge/🔄-Actively_Scaling-4ADE80?style=flat-square&labelColor=0d1117)]()
 [![Type](https://img.shields.io/badge/Type-EdTech_Platform-A78BFA?style=flat-square&labelColor=0d1117)]()
 
@@ -131,6 +132,7 @@
 <div align="center">
 
 ### 🏫 Purvaansh Preschool
+
 [![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)]()
 [![Stars](https://img.shields.io/github/stars/sk-mallick/Purvaansh-Preschool?style=flat-square&color=FFCA28&labelColor=0d1117)]()
 
@@ -155,6 +157,7 @@
 <div align="center">
 
 ### 🎓 Trident ACM Portal
+
 [![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)]()
 [![Stars](https://img.shields.io/github/stars/sk-mallick/acm?style=flat-square&color=FFCA28&labelColor=0d1117)]()
 
@@ -184,6 +187,7 @@
 <div align="center">
 
 ### 💄 Sunita Makeover
+
 [![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)]()
 
 </div>
@@ -206,6 +210,7 @@
 <div align="center">
 
 ### 🎨 Aesthetic Club
+
 [![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)]()
 
 </div>
@@ -227,6 +232,7 @@
 <div align="center">
 
 ### 🚨 AERIS — AI System
+
 [![Status](https://img.shields.io/badge/Tritthon_2026-🏆_Hackathon-FFCA28?style=flat-square&labelColor=0d1117)]()
 
 </div>
@@ -248,6 +254,7 @@
 <div align="center">
 
 ### 💼 SK Portfolio
+
 [![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)]()
 
 </div>
@@ -301,14 +308,19 @@
 <td width="50%">
 
 **🚀 Full-Stack Development**
+
 ```
 █████████████████░░ 90%  ████ Expert
 ```
+
 **🎨 UI/UX Design Systems**
+
 ```
 ████████████████░░░ 85%  ███  Advanced
 ```
+
 **📊 Database Architecture**
+
 ```
 ████████████████░░░ 85%  ███  Advanced
 ```
@@ -317,14 +329,19 @@
 <td width="50%">
 
 **⚛️ React & Modern JavaScript**
+
 ```
 █████████████████░░ 88%  ████ Expert
 ```
+
 **📚 EdTech Platform Building**
+
 ```
 ██████████████████░ 92%  ████ Expert
 ```
+
 **📱 Android / React Native**
+
 ```
 ███████████████░░░░ 80%  ███  Advanced
 ```
