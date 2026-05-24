@@ -1,0 +1,3 @@
+## 2026-05-24 - GitHub Profile Markdown Rendering Bottlenecks
+**Learning:** Third-party widgets deployed on Heroku free tier (like `github-readme-streak-stats.herokuapp.com`) introduce massive latency due to cold starts when rendering GitHub profiles. Additionally, using standard GitHub blob URLs (`github.com/.../blob/...`) for raw assets like images forces a 302 redirect, unnecessarily adding round trips to asset fetching.
+**Action:** Always prefer Cloudflare/Vercel backed edge-deployments (like `demolab.com` widgets) over Heroku free tier, and directly use `raw.githubusercontent.com` to bypass 302 redirects for static assets in markdowns.
