@@ -1,0 +1,3 @@
+## 2024-05-19 - Optimize Third-Party Image Widget and GitHub Blob URLs
+**Learning:** Using `github-readme-streak-stats.herokuapp.com` for streak stats can cause significant loading delays due to Heroku cold starts. Additionally, using `github.com/.../blob/...` URLs with `?raw=true` introduces unnecessary 302 redirect latency when fetching assets like images or GIFs.
+**Action:** Use Vercel or Cloudflare-backed endpoints like `streak-stats.demolab.com` for widgets, and always use direct `raw.githubusercontent.com` URLs instead of blob redirects to minimize external dependency latency and TTFB (Time to First Byte).
