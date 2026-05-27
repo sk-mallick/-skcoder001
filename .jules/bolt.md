@@ -1,0 +1,3 @@
+## 2024-05-27 - Optimize Static Asset Loading
+**Learning:** Using `github-readme-streak-stats.herokuapp.com` for streak stats in GitHub profiles can cause significant latency due to Heroku's cold start delays. Additionally, embedding GitHub repository files (like images or GIFs) using `github.com/.../blob/...` with `?raw=true` introduces unnecessary 302 redirect latency.
+**Action:** When using streak stats or similar third-party widgets, prefer Vercel/Cloudflare-backed endpoints like `streak-stats.demolab.com`. For embedding repository files, always use the direct `raw.githubusercontent.com` URL to eliminate redirect latency.
