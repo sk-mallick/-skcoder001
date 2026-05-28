@@ -360,7 +360,8 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=A78BFA&fire=FF6B6B&sideLabels=c9d1d9&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888" width="70%" alt="GitHub Readme Streak Stats displaying commit streak details"/>
+<!-- ⚡ Bolt Optimization: Switched from Heroku to Demolab endpoint to prevent slow Heroku cold starts. Expected impact: ~1-3s faster widget load time. -->
+<img src="https://streak-stats.demolab.com/?user=sk-mallick&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=A78BFA&fire=FF6B6B&sideLabels=c9d1d9&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888" width="70%" alt="GitHub Readme Streak Stats displaying commit streak details"/>
 </td>
 </tr>
 </table>
