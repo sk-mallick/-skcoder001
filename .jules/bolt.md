@@ -1,0 +1,3 @@
+## 2025-02-23 - GitHub Profile Badge Loading Optimization
+**Learning:** External image widgets and GitHub blobs (with `?raw=true`) embedded in README files create notable latency during profile loads. Heroku-backed widgets (`herokuapp.com`) suffer from slow cold starts (2-5s), and `github.com` blobs incur a 302 redirect latency.
+**Action:** Always prefer serverless/edge-cached endpoints (like `demolab.com` via Cloudflare/Vercel) over Heroku endpoints for third-party badges, and use direct `raw.githubusercontent.com` URLs for GitHub hosted media instead of relying on `?raw=true` query parameters to skip the redirect.
