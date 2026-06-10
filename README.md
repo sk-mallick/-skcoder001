@@ -107,8 +107,8 @@
 <div align="center">
 
 ### 📚 EnglishJibi · GrammarHub
-[![Status](https://img.shields.io/badge/🔄-Actively_Scaling-4ADE80?style=flat-square&labelColor=0d1117)]()
-[![Type](https://img.shields.io/badge/Type-EdTech_Platform-A78BFA?style=flat-square&labelColor=0d1117)]()
+![Status](https://img.shields.io/badge/🔄-Actively_Scaling-4ADE80?style=flat-square&labelColor=0d1117)
+![Type](https://img.shields.io/badge/Type-EdTech_Platform-A78BFA?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -131,8 +131,8 @@
 <div align="center">
 
 ### 🏫 Purvaansh Preschool
-[![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)]()
-[![Stars](https://img.shields.io/github/stars/sk-mallick/Purvaansh-Preschool?style=flat-square&color=FFCA28&labelColor=0d1117)]()
+![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/sk-mallick/Purvaansh-Preschool?style=flat-square&color=FFCA28&labelColor=0d1117)
 
 </div>
 
@@ -155,8 +155,8 @@
 <div align="center">
 
 ### 🎓 Trident ACM Portal
-[![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)]()
-[![Stars](https://img.shields.io/github/stars/sk-mallick/acm?style=flat-square&color=FFCA28&labelColor=0d1117)]()
+![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/sk-mallick/acm?style=flat-square&color=FFCA28&labelColor=0d1117)
 
 </div>
 
@@ -184,7 +184,7 @@
 <div align="center">
 
 ### 💄 Sunita Makeover
-[![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)]()
+![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -206,7 +206,7 @@
 <div align="center">
 
 ### 🎨 Aesthetic Club
-[![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)]()
+![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -227,7 +227,7 @@
 <div align="center">
 
 ### 🚨 AERIS — AI System
-[![Status](https://img.shields.io/badge/Tritthon_2026-🏆_Hackathon-FFCA28?style=flat-square&labelColor=0d1117)]()
+![Status](https://img.shields.io/badge/Tritthon_2026-🏆_Hackathon-FFCA28?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -248,7 +248,7 @@
 <div align="center">
 
 ### 💼 SK Portfolio
-[![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)]()
+![Status](https://img.shields.io/badge/🟢-Live-4ADE80?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -360,7 +360,7 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=A78BFA&fire=FF6B6B&sideLabels=c9d1d9&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888" width="70%" alt="GitHub Readme Streak Stats displaying commit streak details"/>
+<img src="https://streak-stats.demolab.com/?user=sk-mallick&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=A78BFA&fire=FF6B6B&sideLabels=c9d1d9&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888" width="70%" alt="GitHub Readme Streak Stats displaying commit streak details"/>
 </td>
 </tr>
 </table>
@@ -379,25 +379,25 @@
 <tr>
 <td width="25%" align="center">
 
-[![SIH](https://img.shields.io/badge/🏆-Smart_India_Hackathon_2024-FFCA28?style=for-the-badge&labelColor=0d1117)]()
+![SIH](https://img.shields.io/badge/🏆-Smart_India_Hackathon_2024-FFCA28?style=for-the-badge&labelColor=0d1117)
 <br/><small>Women's Safety Android App</small>
 
 </td>
 <td width="25%" align="center">
 
-[![Tritthon](https://img.shields.io/badge/🤖-Tritthon_2026_%7C_Team_RTX-A78BFA?style=for-the-badge&labelColor=0d1117)]()
+![Tritthon](https://img.shields.io/badge/🤖-Tritthon_2026_%7C_Team_RTX-A78BFA?style=for-the-badge&labelColor=0d1117)
 <br/><small>AERIS AI Risk System</small>
 
 </td>
 <td width="25%" align="center">
 
-[![EnglishJibi](https://img.shields.io/badge/📚-EnglishJibi_Founder-4ADE80?style=for-the-badge&labelColor=0d1117)]()
+![EnglishJibi](https://img.shields.io/badge/📚-EnglishJibi_Founder-4ADE80?style=for-the-badge&labelColor=0d1117)
 <br/><small>Grammar Coaching Center</small>
 
 </td>
 <td width="25%" align="center">
 
-[![Freelance](https://img.shields.io/badge/💼-5%2B_Freelance_Projects-00D4FF?style=for-the-badge&labelColor=0d1117)]()
+![Freelance](https://img.shields.io/badge/💼-5%2B_Freelance_Projects-00D4FF?style=for-the-badge&labelColor=0d1117)
 <br/><small>Live Client Deliveries</small>
 
 </td>
@@ -405,25 +405,25 @@
 <tr>
 <td width="25%" align="center">
 
-[![Tech Lead](https://img.shields.io/badge/👨‍💻-ACM_Tech_Lead-FF6B6B?style=for-the-badge&labelColor=0d1117)]()
+![Tech Lead](https://img.shields.io/badge/👨‍💻-ACM_Tech_Lead-FF6B6B?style=for-the-badge&labelColor=0d1117)
 <br/><small>Trident ACM Student Chapter</small>
 
 </td>
 <td width="25%" align="center">
 
-[![GitHub Badges](https://img.shields.io/badge/⭐-Pull_Shark_%7C_Quickdraw-FFCA28?style=for-the-badge&labelColor=0d1117)]()
+![GitHub Badges](https://img.shields.io/badge/⭐-Pull_Shark_%7C_Quickdraw-FFCA28?style=for-the-badge&labelColor=0d1117)
 <br/><small>GitHub Achievement Badges</small>
 
 </td>
 <td width="25%" align="center">
 
-[![Repos](https://img.shields.io/badge/📦-53%2B_Public_Repos-A78BFA?style=for-the-badge&labelColor=0d1117)]()
+![Repos](https://img.shields.io/badge/📦-53%2B_Public_Repos-A78BFA?style=for-the-badge&labelColor=0d1117)
 <br/><small>Open Source Contributor</small>
 
 </td>
 <td width="25%" align="center">
 
-[![BTech](https://img.shields.io/badge/🎓-B.Tech_CS_%7C_6th_Sem-4ADE80?style=for-the-badge&labelColor=0d1117)]()
+![BTech](https://img.shields.io/badge/🎓-B.Tech_CS_%7C_6th_Sem-4ADE80?style=for-the-badge&labelColor=0d1117)
 <br/><small>Trident Academy, Bhubaneswar</small>
 
 </td>
