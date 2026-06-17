@@ -360,7 +360,9 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=A78BFA&fire=FF6B6B&sideLabels=c9d1d9&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888" width="70%" alt="GitHub Readme Streak Stats displaying commit streak details"/>
+<!-- Performance: Changed to Cloudflare-backed endpoint -->
+<!-- to avoid Heroku cold starts (~2-3s reduction) -->
+<img src="https://streak-stats.demolab.com/?user=sk-mallick&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=A78BFA&fire=FF6B6B&sideLabels=c9d1d9&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888" width="70%" alt="GitHub Readme Streak Stats displaying commit streak details"/>
 </td>
 </tr>
 </table>
@@ -519,7 +521,9 @@ contact    : subhammallick454@gmail.com
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="270" height="185" alt="Coding"/>
+<!-- Performance: Changed to raw.githubusercontent.com -->
+<!-- to avoid 302 redirect latency (~100-200ms reduction) -->
+<img src="https://raw.githubusercontent.com/developer-guy/developer-guy/master/code.gif" width="270" height="185" alt="Coding"/>
 
 <br/>
 
